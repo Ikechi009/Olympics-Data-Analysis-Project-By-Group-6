@@ -15,5 +15,5 @@ Challenges faced:
 One of the datasets had inconsistent data formats, such as commas in the name field or text fields where numeric values were expected. These issues were resolved during the data transformation phase and ......(Mazi Ben to supply how he was able to clean the data)
 
 ### Tool Used
-Microsoft Power Bi [Download Here](https:/www.microsoft.com).
+Microsoft Power Bi [Download Here](https://www.microsoft.com).
 
