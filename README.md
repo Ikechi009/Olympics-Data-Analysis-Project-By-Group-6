@@ -69,13 +69,5 @@ WHERE Total Athletes = COUNTROWS(Athletes)
 This measure counted the total number of athletes across all countries 
 and disciplines.
 
-iii. Rank by Medals:
 
-``` CALCULATED MEASURE
-SELECT * FROM THE OLYMPIC DATA
-WHERE Rank by Medals = RANKX(ALL(Medals[Country]), [Total Medals], ,DESC )
- ```
-
-This measure ranked countries by the total number of medals won, 
-enabling users to see how countries compared in terms of Olympic performance.
 
