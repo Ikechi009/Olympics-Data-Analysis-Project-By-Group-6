@@ -44,7 +44,7 @@ We analyze the performance of men versus women in the Olympic Games. By categori
 
 5. Top 10 Countries by Medals
 
-Crafting DAX Measures for Deeper Insights
+### Crafting DAX Measures for Deeper Insights
 
 Once the model was established, we used DAX (Data Analysis Expressions) to create dynamic measures for key insights. These measures allowed us to perform complex calculations on the fly, enabling the dashboard to display dynamic and context-sensitive metrics based on the user’s interactions.
 Key measures created:
