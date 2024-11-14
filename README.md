@@ -66,3 +66,7 @@ and disciplines.
 iii. Rank by Medals:
 
 ``` Rank by Medals = RANKX(ALL(Medals[Country]), [Total Medals], ,DESC ) ```
+
+This measure ranked countries by the total number of medals won, 
+enabling users to see how countries compared in terms of Olympic performance.
+
