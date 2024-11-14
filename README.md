@@ -16,5 +16,17 @@ One of the datasets had inconsistent data formats, such as commas in the name f
 
 ### Tool Used
 - Microsoft Excel [Download Here](https://www.microsoft.com)
-- Microsoft Power Bi 
+- Microsoft Power Bi
+  
+### Data Transformations 
+Data cleaning and transformation are critical steps in preparing raw data for analysis. In Power BI, we used Power Query to apply various transformations, ensuring that the data was consistent, accurate, and ready for analysis.
+Key transformations we applied included:
+
+Replacing Values:  we replaced missing or inconsistent values using Power Query’s Replace Values feature, especially in cases where country names or abbreviations were inconsistent across datasets.
+
+Data Type Corrections: Ensured that numeric fields (e.g., number of medals or athletes) were set to the correct data types, avoiding text or mixed data formats.
+
+Calculated Columns: We added calculated columns for total medal to ensure these values could be easily referenced during the data modeling phase.
+
+This transformation phase ensured that the data was clean and cohesive, making the modeling and visualization processes more efficient.
 
