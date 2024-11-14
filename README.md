@@ -51,7 +51,10 @@ Key measures created:
 
 i. Total Sports:
 
-``` Total Sports = SUM(Sports[Total])```
+``` CALCULATED MEASURE
+SELECT * FROM THE OLYMPIC DATA TABLE
+WHERE Total Sports = SUM(Sports[Total])
+```
 
 This measure calculated the total number of medals won by each 
 country across all disciplines.
