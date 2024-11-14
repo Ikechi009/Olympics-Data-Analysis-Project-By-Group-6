@@ -43,3 +43,26 @@ We analyze the performance of men versus women in the Olympic Games. By categori
 4. Country-wise Medal Count
 
 5. Top 10 Countries by Medals
+
+Crafting DAX Measures for Deeper Insights
+
+Once the model was established, we used DAX (Data Analysis Expressions) to create dynamic measures for key insights. These measures allowed us to perform complex calculations on the fly, enabling the dashboard to display dynamic and context-sensitive metrics based on the user’s interactions.
+Key measures created:
+
+i. Total Sports:
+
+``` Total Sports = SUM(Sports[Total])```
+
+This measure calculated the total number of medals won by each 
+country across all disciplines.
+
+ii. Total Athletes:
+
+``` Total Athletes = COUNTROWS(Athletes) ```
+
+This measure counted the total number of athletes across all countries 
+and disciplines.
+
+iii. Rank by Medals:
+
+``` Rank by Medals = RANKX(ALL(Medals[Country]), [Total Medals], ,DESC ) ```
