@@ -30,3 +30,16 @@ Calculated Columns: We added calculated columns for total medal to ensure these 
 
 This transformation phase ensured that the data was clean and cohesive, making the modeling and visualization processes more efficient.
 
+### Key insights include: 
+ 
+We analyze the performance of men versus women in the Olympic Games. By categorizing medal count and gender, we can discern how some countries may have higher performing athletes from men or women.
+
+1. Count of Medal By Gender 
+
+2. Total number of medals won by countries.
+
+3. Distribution of athletes by gender and sports.
+
+4. Country-wise Medal Count
+
+5. Top 10 Countries by Medals
