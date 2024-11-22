@@ -1,7 +1,8 @@
 ## Olympics-Data-Analysis-Project
 
 ## Table of Outline
-## [Project Overview](project-overview)
+## [Project Overview](#project-overview)
+## [Data Import Process](#data-import-process)
 ### Project Overview
 ---
 For this project, we are doing exploratory data analysis on Olympics Games data. Our objective was to develop a comprehensive and interactive Power BI report that showcases insights into key aspects of the Olympics. This project serves as a demonstration of our data analysis skills, from data import and transformation to data modeling and visualization.
