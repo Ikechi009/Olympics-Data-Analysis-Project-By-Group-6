@@ -5,7 +5,7 @@
 ## [Data Import Process](#data-import-process)
 ## [Tool Used](#tool-used)
 ## [Data Transformations](#data-transformations)
-## [Key Insights](#key-insights)
+## [Key Insights Include](#key-insights-include)
 ## [Crafting DAX Measures for Deeper Insights](crafting-dax-measures-for-deeper-insights)
 
 ### Project Overview
