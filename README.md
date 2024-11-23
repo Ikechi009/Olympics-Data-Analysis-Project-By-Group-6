@@ -1,4 +1,4 @@
-## Olympics-Data-Analysis-Project
+# Olympics-Data-Analysis-Project
 
 ## Table of Outline
 ## [Project Overview](#project-overview)
