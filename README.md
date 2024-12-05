@@ -24,7 +24,7 @@ Power BI’s 'Get Data' feature made the import process seamless, supporting v
 
 **Challenges faced**: 
 
-One of the datasets had inconsistent data formats, such as commas in the name field or text fields where numeric values were expected. These issues were resolved during the data transformation phase and ......(Mazi Ben to supply how he was able to clean the data)
+One of the datasets had inconsistent data formats, such as commas in the name field or text fields where numeric values were expected. These issues were resolved during the data transformation phase.
 
 ### Tool Used
 ---
